@@ -15,4 +15,4 @@ This is an Excel sheet designed for tracking sales and managing product warranti
 * Conditional Formatting
 
 ## Preview
-![Tech Store Dashboard](Simple-database/screenshots/main_table.png)
+![Tech Store Dashboard](screenshots/main_table.png)
